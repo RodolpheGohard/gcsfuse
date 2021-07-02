@@ -175,7 +175,7 @@ In the future gcsfuse can be updated in the usual way for homebrew packages:
 Prerequisites:
 
 *   A working [Go][go] installation at least as new as [version
-    1.13][go-version]. See [Installing Go from source][go-setup].
+    1.15][go-version]. See [Installing Go from source][go-setup].
 *   Fuse. See the instructions for the binary release above.
 *   Git. This is probably available as `git` in your package manager.
 
